@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/Sketchware-Pro.png" style="width: 30%;" />
+  <img src="assets/logo.svg" style="width: 30%;" />
 </p>
